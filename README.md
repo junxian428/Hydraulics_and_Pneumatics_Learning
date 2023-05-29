@@ -19,3 +19,7 @@ Hydraulic Parameter:
 ![image](https://github.com/junxian428/Hydraulics_and_Pneumatics_Learning/assets/58724748/4f5101f4-f162-4357-a484-1bb5d93eabdb)
 
 ![image](https://github.com/junxian428/Hydraulics_and_Pneumatics_Learning/assets/58724748/ea4b0319-8d57-4733-a0b0-ff4d4b3c3f8b)
+
+![image](https://github.com/junxian428/Hydraulics_and_Pneumatics_Learning/assets/58724748/4f1e6128-be7c-452b-b1cb-a3b02de35ab9)
+
+![image](https://github.com/junxian428/Hydraulics_and_Pneumatics_Learning/assets/58724748/5ed7d3a6-80d4-49be-8937-dd1b7d697bbc)
